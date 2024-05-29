@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/json",
-      "destination": "/nodejs/json"
+      "destination": "use.json"
     }
   ]
 }
