@@ -17,8 +17,16 @@
       "destination": "https://instagram.com/yukinvx.t"
     },
     {
-      "source": "/gg",
+      "source": "/idk",
+      "destination": "https://google.com"
+    },
+    {
+      "source": "/src.luna.api",
       "destination": "https://gemini.google.com"
+    },
+    {
+      "source": "/bwstat.luna.hyp",
+      "destination": "https://bwstats.shivam.pro/user/nvmluna"
     }
   ]
 }
