@@ -6,7 +6,15 @@
     },
     {
       "source": "/gpt3",
-      "destination": "https://google.com"
+      "destination": "https://chatgpt.com"
+    },
+    {
+      "source": "/gg",
+      "destination": "https://gemini.google.com"
+    },
+    {
+      "source": "/ig",
+      "destination": "https://instagram.com/@yukinvx.t"
     }
   ]
 }
