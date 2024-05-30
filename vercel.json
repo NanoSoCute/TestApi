@@ -19,10 +19,6 @@
     {
       "source": "/gg",
       "destination": "https://gemini.google.com"
-    },
-    {
-      "source": "/gg",
-      "destination": "https://gemini.google.com"
     }
   ]
 }
