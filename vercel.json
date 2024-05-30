@@ -14,7 +14,15 @@
     },
     {
       "source": "/ig",
-      "destination": "https://instagram.com/@yukinvx.t"
+      "destination": "https://instagram.com/yukinvx.t"
+    },
+    {
+      "source": "/gg",
+      "destination": "https://gemini.google.com"
+    },
+    {
+      "source": "/gg",
+      "destination": "https://gemini.google.com"
     }
   ]
 }
