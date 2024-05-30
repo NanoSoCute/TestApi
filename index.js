@@ -6,6 +6,10 @@ app.get('/', (req, res) => {
     res.send('Hello, World!');
 });
 
+app.get('/gpt3', (req, res) => {
+    res.send('Hello, World!');
+});
+
 // Define a route to read and serve the use.json file
 app.get('/json', (req, res) => {
     // Read the use.json file

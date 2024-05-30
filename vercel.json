@@ -3,6 +3,10 @@
     {
       "source": "/json",
       "destination": "use.json"
+    },
+    {
+      "source": "/gpt3",
+      "destination": "https://google.com"
     }
   ]
 }
