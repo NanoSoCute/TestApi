@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/src.luna.api",
-      "destination": "/src.luna.api"
+      "destination": "github.com/nanosocute/testapi"
     },
     {
       "source": "/json",
