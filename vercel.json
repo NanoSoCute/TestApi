@@ -1,6 +1,10 @@
 {
   "rewrites": [
     {
+      "source": "/",
+      "destination": "index.js"
+    },
+    {
       "source": "/json",
       "destination": "use.json"
     },
