@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "src": "/src",
-      "dest": "https://github.com/tantaihaha4487/mashiro-bot",
+      "source": "/src",
+      "destination": "https://github.com/tantaihaha4487/mashiro-bot",
       "status": 200
     },
     {
