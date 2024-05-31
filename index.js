@@ -13,7 +13,7 @@ app.get('/gpt3', (req, res) => {
 });
 
 app.get('/lunaapi.src', (req, res) => {
-    res.send(githubrepourl);
+    res.send('Hello, World');
 });
 
 // Define the external URL for your GitHub repo
