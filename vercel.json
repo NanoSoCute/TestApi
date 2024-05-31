@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "index.js"
+      "destination": "google.com"
     },
     {
       "source": "/json",
@@ -23,10 +23,6 @@
     {
       "source": "/idk",
       "destination": "https://google.com"
-    },
-    {
-      "source": "/src.luna.api",
-      "destination": "https://github.com/NanoSoCute/testapi"
     },
     {
       "source": "/bwstat.luna.hyp",
