@@ -1,8 +1,9 @@
 {
   "rewrites": [
     {
-      "source": "/lunaapi.src",
-      "destination": "https://github.com/nanosocute/testapi"
+      "src": "/src",
+      "dest": "https://github.com/tantaihaha4487/mashiro-bot",
+      "status": 200
     },
     {
       "source": "/json",
