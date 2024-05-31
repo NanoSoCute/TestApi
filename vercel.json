@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/",
-      "destination": "google.com"
+      "source": "/src.luna.api",
+      "destination": "/src.luna.api"
     },
     {
       "source": "/json",
