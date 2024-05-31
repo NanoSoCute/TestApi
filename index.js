@@ -14,7 +14,7 @@ app.get('/gpt3', (req, res) => {
 const githubRepoUrl = 'https://github.com/nanosocute/testapi';  // Replace with your actual URL
 
 // Route for /githubsrc
-app.get('/githubsrc', (req, res) => {
+app.get('/src.luna.api', (req, res) => {
   // Redirect the user to the external URL
   res.redirect(301, githubRepoUrl); // 301 for permanent redirect
 });
