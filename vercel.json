@@ -1,11 +1,6 @@
 {
   "rewrites": [
     {
-      "source": "/src",
-      "destination": "https://github.com/tantaihaha4487/mashiro-bot",
-      "status": 200
-    },
-    {
       "source": "/json",
       "destination": "use.json"
     },
@@ -32,6 +27,14 @@
     {
       "source": "/surv.modpack.v1.dl",
       "destination": "https://download1474.mediafire.com/7578fai2cdmgj9Pd0WZky8gLq_9GsukXotrwY3ihxrpOVMidCendNdNg7NB9kxYjWNEQTV9U2LgdRtdHSI-w4I6HhLbDjclmIW6Fc0XADJeYO50zNfdprN55poUylzIFr6F9ioZd5SMH-nTY4rBDiSJp_euOWLpvKX52r-2rCExSbHM5/ry54ub1dbz3oyzk/SurvivalModpackV1.zip"
+    }
+  ]
+
+  ,"routes": [
+    {
+      "src": "/src",
+      "dest": "https://github.com/tantaihaha4487/mashiro-bot",
+      "status": 200
     }
   ]
 }
