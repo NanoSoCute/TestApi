@@ -1,6 +1,8 @@
 const express = require('express');
 const fs = require('fs');
 const app = express();
+// Define the external URL for your GitHub repo
+const githubRepoUrl = 'https://github.com/nanosocute/testapi';  // Replace with your actual URL
 
 app.get('/', (req, res) => {
     res.send('Hello, World!');
@@ -10,14 +12,12 @@ app.get('/gpt3', (req, res) => {
     res.send('Hello, World!');
 });
 
+app.get('/lunaapi.src', (req, res) => {
+    res.send(githubrepourl);
+});
+
 // Define the external URL for your GitHub repo
 const githubRepoUrl = 'https://github.com/nanosocute/testapi';  // Replace with your actual URL
-
-// Route for /githubsrc
-app.get('/src.luna.api', (req, res) => {
-  // Redirect the user to the external URL
-  res.redirect(301, githubRepoUrl); // 301 for permanent redirect
-});
 
 // Define a route to read and serve the use.json file
 app.get('/json', (req, res) => {
