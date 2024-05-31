@@ -12,7 +12,7 @@ app.get('/gpt3', (req, res) => {
     res.send('Hello, World!');
 });
 
-app.get('/lunaapi.src', (req, res) => {
+app.get('/apisrc', (req, res) => {
     res.send('Hello, World');
 });
 
